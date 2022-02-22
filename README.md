@@ -1,1 +1,36 @@
 # react
+
+#this is a class practical
+
+steps
+----------------------
+
+git clone <url> //clone url from your repository
+
+    comes with the main branch.
+    create your branch.
+
+git branch -b <branch name>
+
+    git checkout <branch name> #allows you to access different branches created
+
+#configuring your branch
+
+    git config --global user.name "your username"
+    git config --global user.email "your email"
+
+git commit -m "your commit message"
+
+git push
+
+to merge with another branch 
+
+    go to the other branch
+    then do a git merge <branch name>
+
+if you want to delete the branch you just merged with
+
+    git branch -d <branch name>
+
+
+
