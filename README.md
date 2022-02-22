@@ -19,6 +19,10 @@ git branch -b <branch name>
     git config --global user.name "your username"
     git config --global user.email "your email"
 
+git status #shows the files added, deleted or modified
+
+git add . #stages all the files
+
 git commit -m "your commit message"
 
 git push
