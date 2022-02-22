@@ -30,7 +30,8 @@ git push
 to merge with another branch 
 
     go to the other branch
-    then do a git merge <branch name>
+    then do 
+    git merge <branch name>
 
 if you want to delete the branch you just merged with
 
