@@ -36,3 +36,5 @@ to merge with another branch
 if you want to delete the branch you just merged with
 
     git branch -d <branch name>
+
+    ....
