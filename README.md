@@ -38,3 +38,5 @@ if you want to delete the branch you just merged with
     git branch -d <branch name>
 
 ...
+If you want to see the history of the changes made
+    git log
