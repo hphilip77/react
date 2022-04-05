@@ -40,3 +40,5 @@ if you want to delete the branch you just merged with
 ...
 If you want to see the history of the changes made
     git log
+    
+ Hello this is git bash presentation
